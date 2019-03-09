@@ -1,6 +1,7 @@
 default: sporth
 
 MASTER_MAKEFILE=1
+BUILD_JACK=1
 
 CFLAGS += -O3 -fPIC -I/usr/local/include -Wall -ansi
 
